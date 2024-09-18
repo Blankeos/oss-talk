@@ -1,0 +1,11 @@
+export { default as Title } from './1-title.svelte'
+export { default as Introduction1 } from './2-1-introduction.svelte'
+export { default as Introduction2 } from './2-2-introduction.svelte'
+export { default as WhatIsOpenSource } from './3-what-is-opensource.svelte'
+export { default as ExamplesOfOpenSource } from './4-examples-of-open-source-software.svelte'
+export { default as ImpactOfOpenSource } from './5-impact-of-opensource.svelte'
+export { default as WhyContributeToOpenSource } from './6-why-contribute-to-opensource.svelte'
+export { default as HowToContributeToOpenSource } from './7-how-to-contribute-to-open-source.svelte'
+export { default as Quiz } from './9-quiz.svelte'
+
+export { default as End } from './10-end.svelte'
