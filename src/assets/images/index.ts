@@ -11,3 +11,7 @@ export { default as ImageGitHubIssues } from './github-issues.png'
 export { default as ImageGitHubPRs } from './github-prs.png'
 
 export { default as ImageIsagiTheresSomethingWrong } from './isagi-there-something-wrong.png'
+
+export { default as ImageNestedLayoutsThanking } from './nested-layouts-thanking.png'
+
+export { default as ImageTopGitHubUsers } from './top-github-users.png'

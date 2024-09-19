@@ -29,9 +29,17 @@
 			)}
 		/>
 
-		<div class="texto-neutral-400 text-bluborder-e-red-200 mt-10 text-xl">
+		<div class="mt-10 text-xl text-neutral-400">
 			Know more about me @ <a href="https://carlotaleon.net" class="text-blue-400 underline"
 				>carlotaleon.net</a
+			>
+		</div>
+
+		<div class="absolute bottom-10 text-lg">
+			slides @ <a
+				href="https://github.com/blankeos/oss-talk"
+				class="text-blue-400 underline"
+				target="_blank">github.com/blankeos/oss-talk</a
 			>
 		</div>
 	</LayoutCenter>

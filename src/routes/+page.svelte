@@ -9,7 +9,8 @@
 		HowToContributeToOpenSource,
 		WhyContributeToOpenSource,
 		Quiz,
-		End
+		End,
+		Conclusions
 	} from '@/components/slides'
 	import { revealConfig } from '@/constants/reveal-config'
 	import { Code, Presentation } from '@animotion/core'
@@ -31,7 +32,7 @@
 	<ImpactOfOpenSource />
 	<WhyContributeToOpenSource />
 	<HowToContributeToOpenSource />
-
+	<Conclusions />
 	<Quiz />
 
 	<End />

@@ -10,6 +10,7 @@
 	import { toast, Toaster } from 'svelte-sonner'
 	import { IconVike } from '@/assets/icons'
 	import LayoutCenter from '../layouts/layout-center.svelte'
+	import { ImageTopGitHubUsers } from '@/assets/images'
 
 	let h1Visible = $state(false)
 
@@ -140,6 +141,11 @@
 						<p class="text-lg">Vike</p>
 					</div>
 				</div>
+			</Transition>
+
+			<Transition class="flex flex-col items-center">
+				<p class="pb-3 text-lg"><b>65th</b> in Top GitHub Users in the whole Philippines</p>
+				<img src={ImageTopGitHubUsers} alt="" class="h-48 rounded-md" />
 			</Transition>
 
 			<GridPattern

@@ -6,6 +6,7 @@ export { default as ExamplesOfOpenSource } from './4-examples-of-open-source-sof
 export { default as ImpactOfOpenSource } from './5-impact-of-opensource.svelte'
 export { default as WhyContributeToOpenSource } from './6-why-contribute-to-opensource.svelte'
 export { default as HowToContributeToOpenSource } from './7-how-to-contribute-to-open-source.svelte'
+export { default as Conclusions } from './8-conclusions.svelte'
 export { default as Quiz } from './9-quiz.svelte'
 
 export { default as End } from './10-end.svelte'
